@@ -10,8 +10,6 @@ Setting up a Kubernetes cluster and Istio service mesh with `vagrantfile` which 
 
 Click the following image to watch the video.
 
-[![Watch the video](https://img.youtube.com/vi/26kbaZxcB4A/maxresdefault.jpg)](https://youtu.be/26kbaZxcB4A)
-
 ### Why not use kubeadm?
 
 Because I want to setup the etcd, apiserver, controller and scheduler without docker container.
