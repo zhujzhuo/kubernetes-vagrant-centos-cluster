@@ -1,0 +1,10 @@
+{
+    "name": "centos/7",  # 添加后的box名称
+    "versions": [{
+        "version": "1.0", # 版本号
+        "providers": [{
+            "name": "my",
+            "url": "/Users/zhujinzhuo/dbjob/k8s/kubernetes-vagrant-centos-cluster/CentOS-7-x86_64-DVD-1908.iso"  # 下载到本地的box
+        }]
+    }]
+}
